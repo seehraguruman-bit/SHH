@@ -63,6 +63,21 @@ Replace `username` with the server user account and `100.x.x.x` with the Tailsca
 
 This repository contains the project documentation and architecture illustration for the SSH + Tailscale remote administration setup.
 
+## Future updates
+
+All future project notes, screenshots, diagrams, and walkthrough text should be added here in this README so they remain visible on GitHub.
+
+Recommended workflow:
+
+- Add new images to the `images/` folder.
+- Reference them in the README with Markdown image syntax, for example:
+
+```md
+![Description](images/your-image.png)
+```
+
+- Add new sections below this file whenever you document a new step, result, improvement, or setup update.
+
 ## License
 
 This project is for educational and demonstration purposes. Use it responsibly and adapt it to your environment and security requirements.

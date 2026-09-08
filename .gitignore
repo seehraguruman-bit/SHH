@@ -1,0 +1,15 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Build/cache
+__pycache__/
+*.log
+
+# Large local artifacts
+*.tmp
