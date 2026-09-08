@@ -1,7 +1,7 @@
 # SSH Remote Administration with Tailscale
 
 Remote administration is an important part of modern computing and server management. System administrators often need to access computers and servers without being physically present near them. Secure Shell (SSH) is one of the most widely used technologies for securely accessing Linux systems through a command-line interface.
-
+awdergthyukiop;khgfdeswadfgyji
 ## Overview
 
 In this project, an Ubuntu server is configured with an SSH server to enable remote command-line administration. Tailscale is then used to create a private network between the client device and the Ubuntu server. This allows SSH access even when the client and server are connected to different physical networks.
