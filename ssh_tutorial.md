@@ -158,3 +158,4 @@ scp -r ./myfolder/ guruman@100.64.0.5:/home/guruman/
 | Can't reach the server | Run `tailscale status` — make sure both machines show as connected |
 | Wrong IP | Re-run `tailscale ip -4` on the server |
 
+edf
