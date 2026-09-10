@@ -168,6 +168,14 @@ sudo ss -tlnp | grep :22
 Do not use fabricated screenshots; capture evidence from the actual
 implementation.
 
+## Proof of Concept
+
+The proof of concept demonstrates the complete remote-access workflow.
+
+### Demonstration Video
+
+[▶️ Watch the complete demonstration](videos\proof.mp4)
+
 ## Learning Outcomes
 
 After completing this project, a learner should understand:
