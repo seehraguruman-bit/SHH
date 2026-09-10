@@ -115,13 +115,21 @@ The connection can be tested by:
 
 1.  Connecting both devices to the same Tailscale network.
 2.  Checking that the server appears in `tailscale status`.
-![alt text](images\ss2.png)
+
+![Tailscale status](images/ss2.png)
+
 3.  Getting the server's Tailscale IP.
-![alt text](images\ss4.png)
+
+![Tailscale IP](images/ss4.png)
+
 4.  Connecting using SSH.
-![alt text](images\ss1.png)
+
+![SSH connection](images/ss1.png)
+
 5.  Running commands on the remote Ubuntu server.
-![alt text](images\ss3.png)
+
+![Remote terminal session](images/ss3.png)
+
 6.  Testing the connection from a different physical network.
 
 ## Project Structure
