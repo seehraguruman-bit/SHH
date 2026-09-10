@@ -1,6 +1,3 @@
-#!/bin/bash
-
-# Basic OpenSSH Server setup script for Ubuntu
 
 set -e
 

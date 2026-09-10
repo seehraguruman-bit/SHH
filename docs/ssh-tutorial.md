@@ -139,7 +139,6 @@ A useful test is:
 4.  Check the server's Tailscale IP.
 5.  Connect using SSH.
 6.  Run remote commands.
-7.  Record the actual result.
 
 ## 10. Troubleshooting
 

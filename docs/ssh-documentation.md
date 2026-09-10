@@ -165,19 +165,6 @@ sudo ss -tlnp | grep :22
 -   Avoid unnecessary public exposure of port 22.
 -   Validate SSH configuration before applying changes.
 
-## Evidence to Capture
-
-For a real implementation, useful evidence includes:
-
-1.  OpenSSH installation
-2.  SSH service status
-3.  Tailscale status
-4.  Tailscale IP
-5.  Successful SSH connection
-6.  Remote command execution
-7.  Cross-network test
-8.  Script execution
-
 Do not use fabricated screenshots; capture evidence from the actual
 implementation.
 

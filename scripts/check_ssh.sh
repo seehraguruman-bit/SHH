@@ -1,6 +1,3 @@
-#!/bin/bash
-
-# SSH and Tailscale diagnostic script
 
 echo "=== Remote Access Diagnostics ==="
 echo
